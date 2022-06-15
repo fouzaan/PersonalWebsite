@@ -1,0 +1,123 @@
+body {
+  background-color: #fefeff;
+}
+
+hr {
+  width: 25%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 13px;
+}
+
+.Illustration1 {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+.Info {
+  display: inline-block;
+  position: relative;
+  width: 45%;
+  bottom: 6rem;
+}
+
+.btn1 {
+  background-color: #ee6352;
+  display: inline-block;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+  border-radius: 0.5rem;
+  width: 10rem;
+}
+
+.btn1-text1 {
+  color: #fff9f9;
+}
+
+.IllustrationClass {
+  display: inline-block;
+  position: relative;
+  width: 45%;
+  top: 2rem;
+  left: 10rem;
+}
+
+.Title {
+  display: inline-block;
+  margin-right: 10;
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
+
+.Title2 {
+  margin-right: 10;
+  position: relative;
+  font-family: "Kanit", sans-serif;
+}
+
+.Description {
+  display: inline-block;
+  margin-right: 10;
+  position: relative;
+  font-family: "Kanit", sans-serif;
+  color: #a4a4a5;
+}
+
+.Programmer_Illustration {
+  display: inline-block;
+  width: 35rem;
+  height: 35rem;
+  position: relative;
+  border-radius: 9%;
+}
+
+.Library_Title {
+  text-align: center;
+}
+
+.libraries {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+.library_img {
+  display: inline-block;
+  position: relative;
+  width: 45%;
+  top: 2rem;
+  right: 10rem;
+}
+
+.LibraryIllustration {
+  display: inline-block;
+  width: 35rem;
+  height: 35rem;
+  position: relative;
+  border-radius: 9%;
+}
+
+.library_Container_style {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background-color: #ebebf0;
+}
+
+.library_Containts {
+  width: 10rem;
+  height: 10rem;
+}
+
+.librarie_elements {
+  display: inline-block;
+  position: relative;
+  width: 45%;
+  bottom: 6rem;
+}

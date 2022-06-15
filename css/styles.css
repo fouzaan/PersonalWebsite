@@ -1,0 +1,50 @@
+body {
+  background-color: #eaf6f6;
+}
+h1 {
+  color: #66bfbf;
+}
+hr {
+  width: 25%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 13px;
+}
+
+/*----------------------------------------------------------------
+block display
+
+block elenments take up all the width which is avaibale 
+some elenments are <p> etc etc 
+
+A span elenment bipasses the lock elenment by ceating a box, span do not do anything with out css 
+
+-------------
+
+inline display 
+
+they come in the same elenments as other, or in the same line as others.
+you can put as much as elenments ultil the full width.
+
+their is a problem with the inline display, that the width or other behairious will be useless.
+
+-------------
+
+inline block display
+
+It gives you the best of both worlds 
+you can give widths eyc and other behaiviors, and is a combinaion on inblock and block dispalys.
+
+-------------
+
+removes the elenments
+*/
+
+/****************************************************************
+rule number one-- content is everyting,(it judges your size of the div)
+
+childer always sit on the parents, here comes the Z index i.e the 3d element.
+
+
+*/
